@@ -1,0 +1,11 @@
+Any of three
+Expert Team:
+- All four players 65+ winning % or combined rating > 65
+- All four players has teams on ladder
+
+Medium Team:
+- All four players 50+ winning % or combined rating > 40
+- Any of the players has teams on ladder
+
+Novice Team:
+- All other
