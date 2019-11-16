@@ -63,9 +63,10 @@ class replay {
 	// 2.0 [Header]
 	function parseheader() {
 		$data = fread($this->fp, 48);
+
 		$this->header = @unpack('a28intro/Vheader_size/Vc_size/Vheader_v/Vu_size/Vblocks', $data);
-	
-		if ($this->header['intro'] != "Warcraft III recorded game\x1A") {
+
+		if (substr($this->header['intro'], 0, 8) != "Warcraft") {
 			exit('Not a replay file');
 		}
 	

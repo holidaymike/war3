@@ -3,7 +3,7 @@ include 'w3g-julas-2.4/w3g-julas.php';
 include 'util.php';
 include 'player.php';
 
-class game {
+class game implements JsonSerializable {
 	public $id, $name, $type, $len, $map, $ver, $isTFT, $numPlayer, $numTeam, $winner, $created, $rating, $teamavg, $oppavg;
 	public $players;
 
@@ -39,10 +39,10 @@ class game {
 				$p = new player($player, $this);
 				$this->players[] = $p;
 				
-				print("playerName=".$p->name."\n");
+				//print("playerName=".$p->name."\n");
 				if (FriendChecker::isMike($p->name)) {
 					$myTeam = $p->team;
-					print("myTeam=$myTeam\n");
+					//print("myTeam=$myTeam\n");
 				}
 			}
 		}
@@ -131,4 +131,20 @@ class game {
 			$this->oppavg."')";
 		return $queryStr;
 	}
+
+    // From JsonSerializable
+    public function jsonSerialize(){
+        return ['name' => $this->name,
+                'type' => $this->type,
+                'len' => $this->len,
+                'map' => $this->map,
+                'version' => $this->ver,
+                'isTFT' => $this->isTFT,
+                'numPlayer' => $this->numPlayer,
+                'winner' => $this->winner,
+                'created' => $this->created,
+                'teamavg' => $this->teamavg,
+                'oppavg' => $this->oppavg,
+                'players' => $this->players];
+    }
 }	

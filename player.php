@@ -1,6 +1,6 @@
 <?php
 
-class player {
+class player implements JsonSerializable {
 	public $id, $name, $race, $isRandom, $apm, $gameId, $team;
 	
 	public static $raceToInt = array(
@@ -19,10 +19,10 @@ class player {
 	protected function initFromArray($data, $game) {
 		$this->name = $data['name'];
 		if ($data['race'] == 'Random') {
-			$this->isRandom = 1;
+			$this->isRandom = true;
 			$this->race = self::$raceToInt[$data['race_detected']];
 		} else {
-			$this->isRandom = 0;
+			$this->isRandom = false;
 			$this->race = self::$raceToInt[$data['race']];
 		}
 		$this->apm = (int) round($data['actions'] / ($game->len / 60000));
@@ -51,6 +51,15 @@ class player {
 			$this->team."')";
 		return $queryStr;
 	}
+
+    // From JsonSerializable
+    public function jsonSerialize(){
+        return ['name' => $this->name,
+                'race' => $this->race,
+                'isRandom' => $this->isRandom,
+                'apm' => $this->apm,
+                'team' => $this->team];
+    }
 }
 	
 	
