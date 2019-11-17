@@ -12,18 +12,16 @@ date_default_timezone_set('America/Los_Angeles');
 // }
 // mysql_select_db("war3", $con);
 
-$dirPath = '/Users/mchian000/Desktop/War3/';
+$dirPath = './War3/';
 
-function walkDirectory($dirPath) {
-    //echo "walking directory=$dirPath\n";
-
+function walkDirectory($dirPath, &$games) {
     $dh = opendir($dirPath);
     while (($file = readdir($dh)) !== false) {
     	if ($file[0] == '.') continue;
 
     	$filename = $dirPath.$file;
     	if (is_dir($filename)) {
-    	    walkDirectory($filename.'/');
+    	    walkDirectory($filename.'/', $games);
     	    continue;
     	}
     	$pathParts = pathinfo($filename);
@@ -32,14 +30,19 @@ function walkDirectory($dirPath) {
     	}
 
         $game = new game($filename);
-    	//echo "file=".$filename." date=".$game->created."\n";
-    	print_r(json_encode($game));
-    	echo "\n";
+    	echo "file=".$filename." date=".$game->created."\n";
+    	$games[] = $game;
     }
     closedir($dh);
 }
 
-walkDirectory($dirPath)
+$games = array();
+walkDirectory($dirPath, $games);
+
+echo "len=".count($games);
+
+$filedata = json_encode($games);
+file_put_contents ("games.log" , $filedata);
 
 // $dh = opendir($dirPath);
 // $counter = 0;
