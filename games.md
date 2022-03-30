@@ -1,3 +1,5 @@
+|Name|type|length|map|version|team avg|opp avg|
+|----|----|------|---|-------|--------|-------|
 |4v4win8.w3g|4|35.69:41|(8)PetrifiedForest.w3m|6|42.5|91.5|
 |4v4winGoodGuy.w3g|4|30.71375:42|(8)GolemsInTheMist.w3m|6|40.5|78.25|
 |3v3winGoodGuy.w3g|3|19.7525:45|(6)SwampOfSorrows.w3m|6|47|92|
@@ -28,14 +30,6 @@
 |4v4win54.w3g|4|23.368333333333:22|(8)PlainsOfSnow.w3m|6|47|51.75|
 |3v3win42.w3g|13|16.44625:26|(6)DarkForest.w3m|6|41|47.333333333333|
 |4v4win65.w3g|4|24.864166666667:51|(8)PetrifiedForest.w3m|6|48.5|28|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win59.w3g|4|19.225:13|(8)BloodvenomFalls.w3m|6|46.75|49.5|
 |4v4win58.w3g|4|24.5975:35|(8)TheCrucible.w3m|6|47|54.75|
 |4v4win64.w3g|4|22.18:10|(8)TheCrucible.w3m|6|46.5|39.25|
@@ -106,14 +100,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |3v3tourney4.w3g|3|12.103333333333:6|(6)BloodstoneMesa.w3x|12|42|40.333333333333|
 |4v4roc2.w3g|4|13.14875:8|(8)BlastedLands.w3m|12|45.75|29.5|
 |3v3win3.w3g|3|14.140416666667:8|(8)Mur''gulOasis.w3x|12|39|48.333333333333|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win34.w3g|4|37.269583333333:16|(8)Mur''gulOasis.w3x|12|65|126.25|
 |4v4win20.w3g|4|19.91625:54|(8)MarketSquare.w3x|12|61.75|60.5|
 |3v3win22.w3g|3|12.834166666667:50|(6)DarkForest.w3m|12|51|38|
@@ -239,14 +225,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |3v3win7.w3g|3|12.07875:4|(6)GnollWood.w3x|15|72|60.333333333333|
 |3v3win6.w3g|3|12.714166666667:42|(6)GnollWood.w3x|15|68|62.333333333333|
 |4v4win31.w3g|4|20.987916666667:59|(8)PetrifiedForest.w3m|15|64.75|38.25|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win25.w3g|4|17.856666666667:51|(8)MarketSquare.w3x|15|72.5|51|
 |3v3win23.w3g|3|19.241666666667:14|(6)DarkForest.w3m|15|50|81.333333333333|
 |4v4win21.w3g|4|18.447083333333:26|(8)GolemsInTheMist.w3m|15|55|49.5|
@@ -303,14 +281,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win10.w3g|4|18.642916666667:38|(8)PetrifiedForest.w3m|15|59.5|58.25|
 |3v3win16.w3g|3|18.993333333333:59|(6)Typhoon.w3x|15|52|53|
 |4v4win28.w3g|4|20.02125:1|(8)MarketSquare.w3x|15|67.5|59.5|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win14.w3g|4|16.71875:43|(8)MarketSquare.w3x|15|62|75|
 |4v4win7.w3g|4|18.673333333333:40|(8)Mur''gulOasis.w3x|15|72.5|55.25|
 |4v4win6.w3g|4|15.445416666667:26|(8)Battleground.w3x|15|75.25|82|
@@ -437,14 +407,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |2v2win3.w3g|2|21.6375:38|(4)Duskwood.w3m|5|37|25|
 |4v4fun2.w3g|14|18.060416666667:3|(8)Battleground.w3m|5|37.75|44.5|
 |3v3fun15.w3g|13|39.11:6|(6)GnollWood.w3m|5|37.666666666667|49.333333333333|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win42.w3g|4|22.31625:18|(8)TheCrucible.w3m|5|40|56|
 |3v3fun11.w3g|13|24.35:21|(8)PetrifiedForest.w3m|5|36.333333333333|54|
 |4v4fun6.w3g|14|14.001666666667:0|(8)TheCrucible.w3m|5|39.25|44|
@@ -470,14 +432,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4fun9.w3g|14|21.825:49|(8)GardenOfWar.w3m|5|45.5|34.5|
 |2v2win8.w3g|2|14.360416666667:21|(4)LostTemple.w3m|5|56|44|
 |2v2win9.w3g|2|9.9279166666667:55|(6)ScorchedBasin.w3m|5|53|62.5|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4fun8.w3g|14|12.998333333333:59|(8)BlastedLands.w3m|5|48|31.75|
 |random3.w3g|23|27.035833333333:2|(8)TheCrucible.w3m|5|35.666666666667|57|
 |3v3fun4.w3g|13|17.835416666667:50|(6)EnakrosWay.w3m|5|39|46|
@@ -504,30 +458,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |1v1win1.w3g|1|17.74875:44|(4)LostTemple.w3m|5|35|63|
 |4v4win38.w3g|4|42.166666666667:10|(8)PlainsOfSnow.w3m|5|41.5|40.75|
 |3v3win16.w3g|3|16.461666666667:27|(8)PlainsOfSnow.w3m|5|49|24.666666666667|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win28.w3g|4|22.915833333333:54|(8)BlastedLands.w3m|5|43.75|37.75|
 |4v4win14.w3g|4|11.085833333333:5|(8)TheCrucible.w3m|5|49.25|34.5|
 |4v4win7.w3g|4|21.00875:0|(8)PetrifiedForest.w3m|5|45.75|44|
@@ -558,14 +488,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win31.w3g|4|14.40375:24|(8)GolemsInTheMist.w3m|16|61.5|82.5|
 |4v4win21.w3g|4|9.5683333333333:34|(8)Feralas.w3x|16|59.75|71.75|
 |4v4win35.w3g|4|28.138333333333:8|(8)GolemsInTheMist.w3m|16|51.75|90.75|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3win2.w3g|3|21.624583333333:37|(6)DarkForest.w3m|16|72|63.333333333333|
 |3v3win3.w3g|3|20.395:23|(6)StranglethornVale.w3x|16|65|43.333333333333|
 |4v4win34.w3g|4|17.91:54|(8)GolemsInTheMist.w3m|16|55.5|97.25|
@@ -583,14 +505,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win51.w3g|4|20.385833333333:23|(8)MarketSquare.w3x|16|69.5|60.5|
 |4v4win47.w3g|4|9.3116666666667:18|(8)Feralas.w3x|16|59.75|70.5|
 |4v4win53.w3g|4|20.963333333333:57|(8)GolemsInTheMist.w3m|16|60.75|77.5|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4lost1.w3g|4|18.045:2|(8)Feralas.w3x|16|55.75|83.25|
 |4v4win52.w3g|4|15.354166666667:21|(8)Feralas.w3x|16|69|81.75|
 |4v4win46.w3g|4|16.11875:7|(8)Mur''gulOasis.w3x|16|73.75|62.25|
@@ -602,28 +516,12 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win69.w3g|4|22.387083333333:23|(8)TheCrossroads.w3x|16|68.5|103.5|
 |4v4win55.w3g|4|16.372083333333:22|(8)Feralas.w3x|16|60|82.25|
 |4v4win41.w3g|4|19.252083333333:15|(8)BlastedLands.w3m|16|65.25|44|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win40.w3g|4|16.1875:11|(8)Feralas.w3x|16|67.75|109|
 |4v4win54.w3g|4|14.2625:15|(8)MarketSquare.w3x|16|59.5|53.5|
 |4v4win68.w3g|4|12.100833333333:6|(8)Mur''gulOasis.w3x|16|80.5|31.25|
 |3v3fun8.w3g|13|16.157083333333:9|(6)SilverpineForest.w3x|16|63|41.666666666667|
 |4v4win71.w3g|4|25.053333333333:3|(8)GolemsInTheMist.w3m|16|78.75|73|
 |4v4win65.w3g|4|21.749583333333:44|(8)GolemsInTheMist.w3m|16|65.25|52.75|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3fun5.w3g|13|25.607083333333:36|(6)SwampOfSorrows.w3m|16|55.666666666667|45.333333333333|
 |4v4win59.w3g|4|12.65125:39|(8)GolemsInTheMist.w3m|16|74.25|41.75|
 |4v4win58.w3g|4|12.50125:30|(8)Mur''gulOasis.w3x|16|63.25|44.75|
@@ -801,34 +699,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |3v3win13.w3g|3|23.347916666667:20|(6)Monsoon.w3x|20|70.333333333333|56.333333333333|
 |4v4win2.w3g|4|10.045416666667:2|(8)GoldRush.w3x|20|73.75|37.5|
 |2v2win-1.w3g|2|11.870833333333:52|(4)Avalanche.w3x|21|73|60|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win3.w3g|4|46.270416666667:16|(8)Cherryville.w3x|20|65.75|50.75|
 |3v3win12.w3g|3|21.022083333333:1|(6)RiceFields.w3x|20|82.666666666667|128.66666666667|
 |3v3win16.w3g|3|13.995:59|(6)SunrockCove.w3x|20|78.666666666667|77.333333333333|
@@ -839,22 +709,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |3v3win8.w3g|3|16.0675:4|(6)Everfrost.w3x|20|73.666666666667|78.333333333333|
 |4v4win4.w3g|4|28.414583333333:24|(8)Cherryville.w3x|20|74|88.75|
 |4v4win5.w3g|4|14.214583333333:12|(8)Battleground.w3x|20|78.25|107.75|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3win9.w3g|3|14.390416666667:23|(6)GnollWood.w3x|20|76.333333333333|63|
 |3v3win14.w3g|3|19.89875:53|(6)Dragonblight.w3x|20|78|68|
 |3v3win19.w3g|3|12.750416666667:45|(6)UpperKingdom.w3x|14|64.333333333333|62.666666666667|
@@ -960,28 +814,12 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win124.w3g|4|17.456666666667:27|(8)Mur''gulOasis.w3x|14|67|73.25|
 |4v4win118.w3g|4|17.41875:25|(8)Battleground.w3x|14|71.75|109.25|
 |4v4win98.w3g|4|16.769583333333:46|(8)Mur''gulOasis.w3x|14|65.75|45.75|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3fun20.w3g|13|13.68125:40|(6)UpperKingdom.w3x|14|60.666666666667|51.333333333333|
 |4v4win73.w3g|4|13.407916666667:24|(8)MarketSquare.w3x|14|67.25|73.25|
 |3v3fun7.w3g|13|22.485416666667:29|(6)RiceFields.w3x|14|54.333333333333|56.333333333333|
 |4v4win67.w3g|4|22.692916666667:41|(8)BlastedLands.w3m|14|58.75|65|
 |4v4win63.w3g|4|21.99375:59|(8)BlastedLands.w3m|14|64.25|49.25|
 |3v3fun3.w3g|13|17.444583333333:26|(8)Mur''gulOasis.w3x|14|61.666666666667|56.666666666667|
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3fun18.w3g|13|19.723333333333:43|(6)GnollWood.w3x|14|65.666666666667|44.333333333333|
 |4v4win88.w3g|4|20.925:55|(8)Mur''gulOasis.w3x|14|65.5|77.25|
 |3v3fun24.w3g|13|12.441666666667:26|(8)Mur''gulOasis.w3x|14|64.333333333333|59.333333333333|
