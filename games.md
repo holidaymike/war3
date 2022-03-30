@@ -30,14 +30,6 @@
 |4v4win54.w3g|4|23:22|(8)PlainsOfSnow.w3m|6|47.00|51.75|dai.dai G.virus-03 G.Virus-6 mbelover jbong mikeMike wale19 wingman |
 |3v3win42.w3g|13|16:26|(6)DarkForest.w3m|6|41.00|47.33|mikeMike jbong fitzban t123 wale19 wingman |
 |4v4win65.w3g|4|24:51|(8)PetrifiedForest.w3m|6|48.50|28.00|PPI URDUMBSELF uvw xyz jbong mikeMike t123 wingman |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win59.w3g|4|19:13|(8)BloodvenomFalls.w3m|6|46.75|49.50|jbong mikeMike t123 wale19 Brown KingOrsk PaiNFuLL_DeaTH SeVeRe_DeaTH |
 |4v4win58.w3g|4|24:35|(8)TheCrucible.w3m|6|47.00|54.75|DarkCrusader NeuroWintermute pongushoot ShadowRaider mikeMike t123 wale19 wingman |
 |4v4win64.w3g|4|22:10|(8)TheCrucible.w3m|6|46.50|39.25|jbong mikeMike t123 wingman hbilly locar minmax vf-1j |
@@ -108,14 +100,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |3v3tourney4.w3g|3|12:6|(6)BloodstoneMesa.w3x|12|42.00|40.33|damnedifIlose Dooped RackedwithPain jbong mikeMike wingman |
 |4v4roc2.w3g|4|13:8|(8)BlastedLands.w3m|12|45.75|29.50|jc123 mikeMike OnionCraft t123 GG-Grinder GG-Nate- GG-Outlaw Random-GloryAus |
 |3v3win3.w3g|3|14:8|(8)Mur''gulOasis.w3x|12|39.00|48.33|mikeMike WingWar z_jia ATsux FaithlessArcher zedzulzorrander |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win34.w3g|4|37:16|(8)Mur''gulOasis.w3x|12|65.00|126.25|4tr1 congee Nadejda sammisun mikeMike OnionCraft t123 z_jia |
 |4v4win20.w3g|4|19:54|(8)MarketSquare.w3x|12|61.75|60.50|EazyOnMehoE newbie_killer Ownage[GVN] xichlo fitzban mikeMike t123 wingman |
 |3v3win22.w3g|3|12:50|(6)DarkForest.w3m|12|51.00|38.00|i.at.president i.BS.AT Spasmodium mikeMike wingman z_jia |
@@ -241,14 +225,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |3v3win7.w3g|3|12:4|(6)GnollWood.w3x|15|72.00|60.33|DecAdeNce. NotiCe SL-Pipsky mikeMike t123 wale18 |
 |3v3win6.w3g|3|12:42|(6)GnollWood.w3x|15|68.00|62.33|mikeMike t123 wale18 applor Jerdsio moth |
 |4v4win31.w3g|4|20:59|(8)PetrifiedForest.w3m|15|64.75|38.25|mikeMike OnionCraft t123 z_jia frysimpson G00kMohFugga Kazou_Kiriyama Naota_Takuum |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win25.w3g|4|17:51|(8)MarketSquare.w3x|15|72.50|51.00|mikeMike OnionCraft t123 z_jia CarNaGe. FzN.NOOb iamrickjames. ifgodis7thenim8 |
 |3v3win23.w3g|3|19:14|(6)DarkForest.w3m|15|50.00|81.33|mikeMike wingman z_jia Dead)man falled-angel sylbia |
 |4v4win21.w3g|4|18:26|(8)GolemsInTheMist.w3m|15|55.00|49.50|JC123 mikeMike t123 z_jia 9.pm Crooked.Cox iamteh1337gosu RiZzIn_r8dUr |
@@ -305,14 +281,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win10.w3g|4|18:38|(8)PetrifiedForest.w3m|15|59.50|58.25|kRaZy[d0nkey] Orc[pWnEr] sora[kh] tiNypNoI mikeMike t123 wingman z_jia |
 |3v3win16.w3g|3|18:59|(6)Typhoon.w3x|15|52.00|53.00|aCe_shaDowZ aznboy Pimp_Mode mikeMike wingman z_jia |
 |4v4win28.w3g|4|20:1|(8)MarketSquare.w3x|15|67.50|59.50|LindsayLohans PUSSINBOOTS- samuraiDEEPRkyo Xzibitz mikeMike t123 wingman z_jia |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win14.w3g|4|16:43|(8)MarketSquare.w3x|15|62.00|75.00|Black-M liquid-A Nemec-T Tommy-Z JC123 mikeMike t123 z_jia |
 |4v4win7.w3g|4|18:40|(8)Mur''gulOasis.w3x|15|72.50|55.25|mikeMike t123 wale18 z_jia Hmong_Mage Neo.Sporen NoobKing wat_we_do |
 |4v4win6.w3g|4|15:26|(8)Battleground.w3x|15|75.25|82.00|bad_santa_ fillItAgain oopaloopa SendInTheClowns mikeMike t123 wale18 z_jia |
@@ -439,14 +407,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |2v2win3.w3g|2|21:38|(4)Duskwood.w3m|5|37.00|25.00|Fahl_Sadoom OrK-DoC mikeMike prue |
 |4v4fun2.w3g|14|18:3|(8)Battleground.w3m|5|37.75|44.50|mikeMike jbong jlinks wingman wale18 OnionCraft z_jia t123 |
 |3v3fun15.w3g|13|39:6|(6)GnollWood.w3m|5|37.67|49.33|mikeMike OnionCraft jlinks wale18 wingman t123 |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win42.w3g|4|22:18|(8)TheCrucible.w3m|5|40.00|56.00|89108073 han0721 JOJO740110 mayccyaya fitzban jbong mikeMike wale19 |
 |3v3fun11.w3g|13|24:21|(8)PetrifiedForest.w3m|5|36.33|54.00|mikeMike wale18 fitzban wingman OnionCraft t123 |
 |4v4fun6.w3g|14|14:0|(8)TheCrucible.w3m|5|39.25|44.00|mikeMike wingman z_jia t123 jlinks OnionCraft wale18 prue |
@@ -472,14 +432,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4fun9.w3g|14|21:49|(8)GardenOfWar.w3m|5|45.50|34.50|mikeMike t123 wale19 chengye jbong jlinks wingman fitzban |
 |2v2win8.w3g|2|14:21|(4)LostTemple.w3m|5|56.00|44.00|mikeMike wale19 Abazaba RabidRacoon |
 |2v2win9.w3g|2|9:55|(6)ScorchedBasin.w3m|5|53.00|62.50|mikeMike wale19 GrappletheFool wowisthatalex |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4fun8.w3g|14|12:59|(8)BlastedLands.w3m|5|48.00|31.75|mikeMike t123 fitzban OnionCraft wingman jbong wale19 jlinks |
 |random3.w3g|23|27:2|(8)TheCrucible.w3m|5|35.67|57.00|david_king NONO250 LiL_aZn-ziDane mikeMike JuzANewBee War-Hammer |
 |3v3fun4.w3g|13|17:50|(6)EnakrosWay.w3m|5|39.00|46.00|jbong z_jia mikeMike OnionCraft wale18 t123 |
@@ -506,30 +458,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |1v1win1.w3g|1|17:44|(4)LostTemple.w3m|5|35.00|63.00|mikeMike mUacksss |
 |4v4win38.w3g|4|42:10|(8)PlainsOfSnow.w3m|5|41.50|40.75|FunkyTowers-AoD Hezare tard01 You-Are-Gay-Jew jbong mikeMike t123 wingman |
 |3v3win16.w3g|3|16:27|(8)PlainsOfSnow.w3m|5|49.00|24.67|cyberbeef iblueScreen triumvirate mikeMike t123 wale18 |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win28.w3g|4|22:54|(8)BlastedLands.w3m|5|43.75|37.75|fitzban mikeMike wale19 wingman arsenio KAKINGAN kevin_rabbit sowhatman |
 |4v4win14.w3g|4|11:5|(8)TheCrucible.w3m|5|49.25|34.50|All-Kracked-Out DaGingaBreadMan Ventrue Zeke003 mikeMike OnionCraft t123 wale18 |
 |4v4win7.w3g|4|21:0|(8)PetrifiedForest.w3m|5|45.75|44.00|2nd(SeconD) AbandonALLHope Firebirdws6 Rain.k jbong mikeMike t123 wale18 |
@@ -560,14 +488,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win31.w3g|4|14:24|(8)GolemsInTheMist.w3m|16|61.50|82.50|dino.bosx findfind.bosx Polar.BoSx ToBe.BoSx jc123 mikeMike t123 z_jia |
 |4v4win21.w3g|4|9:34|(8)Feralas.w3x|16|59.75|71.75|mikeMike t123 wale18 z_jia BlaCkEnEd eScaper-Hydra NyKaX Por-Que. |
 |4v4win35.w3g|4|28:8|(8)GolemsInTheMist.w3m|16|51.75|90.75|ereice law martial. SuperGGNOOBS jc123 mikeMike OnionCraft z_jia |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3win2.w3g|3|21:37|(6)DarkForest.w3m|16|72.00|63.33|Gbh justin.pitt Small_Potato mikeMike OnionCraft t123 |
 |3v3win3.w3g|3|20:23|(6)StranglethornVale.w3x|16|65.00|43.33|mikeMike t123 z_jia aNaL_seX Cheese-Cake Theyre_Leeches |
 |4v4win34.w3g|4|17:54|(8)GolemsInTheMist.w3m|16|55.50|97.25|grimmz nE-PizZa- relax-men WinnipegWarrioR jc123 mikeMike OnionCraft z_jia |
@@ -585,14 +505,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win51.w3g|4|20:23|(8)MarketSquare.w3x|16|69.50|60.50|69newbie69 ikilledkenny Mir[A]cLe SideWayZ mikeMike t123 wingman z_jia |
 |4v4win47.w3g|4|9:18|(8)Feralas.w3x|16|59.75|70.50|candy-girl ky00otie LOF.OFBREAD Vetch mikeMike t123 wale18 z_jia |
 |4v4win53.w3g|4|20:57|(8)GolemsInTheMist.w3m|16|60.75|77.50|candy-girl ky00otie redraven vetch chaotic_dreamer mikeMike wingman z_jia |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4lost1.w3g|4|18:2|(8)Feralas.w3x|16|55.75|83.25|KikYou_ sony.com.au ST_GOSTOP ZeroDark jc123 mikeMike OnionCraft z_jia |
 |4v4win52.w3g|4|15:21|(8)Feralas.w3x|16|69.00|81.75|chengfang KiK_You NoGooD69 theDeathKnight mikeMike t123 wingman z_jia |
 |4v4win46.w3g|4|16:7|(8)Mur''gulOasis.w3x|16|73.75|62.25|mikeMike t123 wale18 z_jia hOMIE_g Puss-Monkey Wanted. XSVGT4 |
@@ -604,28 +516,12 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win69.w3g|4|22:23|(8)TheCrossroads.w3x|16|68.50|103.50|mikeMike t123 wingman z_jia 0972052699 gOda789 gt77 jeaco |
 |4v4win55.w3g|4|16:22|(8)Feralas.w3x|16|60.00|82.25|Dam-mx sidewaysshuffle Slash.XzX UnDe12aTeD jc123 mikeMike t123 z_jia |
 |4v4win41.w3g|4|19:15|(8)BlastedLands.w3m|16|65.25|44.00|mikeMike t123 wingman z_jia AllupNya cani2 orcky Random83 |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win40.w3g|4|16:11|(8)Feralas.w3x|16|67.75|109.00|mikeMike t123 wingman z_jia CoOkiex destroyerx drasu MercyPls |
 |4v4win54.w3g|4|14:15|(8)MarketSquare.w3x|16|59.50|53.50|ikilledkenny Mir[A]cLe NemoFighter POWERFUL-WEAK jc123 mikeMike OnionCraft t123 |
 |4v4win68.w3g|4|12:6|(8)Mur''gulOasis.w3x|16|80.50|31.25|brad696969 mini_schenk Orcish_Tyrant Wonderer mikeMike t123 wingman z_jia |
 |3v3fun8.w3g|13|16:9|(6)SilverpineForest.w3x|16|63.00|41.67|mikeMike t123 chaotic_dreamer OnionCraft z_jia jc123 |
 |4v4win71.w3g|4|25:3|(8)GolemsInTheMist.w3m|16|78.75|73.00|bigtalchinaman Ensigma mofoer smi mikeMike t123 wingman z_jia |
 |4v4win65.w3g|4|21:44|(8)GolemsInTheMist.w3m|16|65.25|52.75|aznpryde_GOtRIC Hybridization Meach pizporia jc123 mikeMike OnionCraft t123 |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3fun5.w3g|13|25:36|(6)SwampOfSorrows.w3m|16|55.67|45.33|mikeMike fitzban z_jia jc123 OnionCraft chaotic_dreamer |
 |4v4win59.w3g|4|12:39|(8)GolemsInTheMist.w3m|16|74.25|41.75|mikeMike t123 wale18 wingman EN.cooldill EN.puppstar EN.wah EN.Wo0pSa |
 |4v4win58.w3g|4|12:30|(8)Mur''gulOasis.w3x|16|63.25|44.75|atthegates LEBER REBEL REBEL23 chaotic_dreamer mikeMike t123 z_jia |
@@ -803,34 +699,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |3v3win13.w3g|3|23:20|(6)Monsoon.w3x|20|70.33|56.33|A1-Dopey Racht Skeptick mikeMike t123 z_jia |
 |4v4win2.w3g|4|10:2|(8)GoldRush.w3x|20|73.75|37.50|Cheeched Chinotto HappyGilmore- Lambo_WC3 mikeMike t123 wale18 z_jia |
 |2v2win-1.w3g|2|11:52|(4)Avalanche.w3x|21|73.00|60.00|mikeMike wale18 ConspiracyMan GrandmotherCIit |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |4v4win3.w3g|4|46:16|(8)Cherryville.w3x|20|65.75|50.75|bia-bia-bia Ghandi23 UGH.2ez welp.2ez mikeMike t123 wale18 z_jia |
 |3v3win12.w3g|3|21:1|(6)RiceFields.w3x|20|82.67|128.67|8.J)NaO babiboo SLiver_Crow mikeMike t123 wale18 |
 |3v3win16.w3g|3|13:59|(6)SunrockCove.w3x|20|78.67|77.33|firestorm9 Guidohatzis Monketron mikeMike t123 wale18 |
@@ -841,22 +709,6 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |3v3win8.w3g|3|16:4|(6)Everfrost.w3x|20|73.67|78.33|mikeMike OnionCraft wale18 Crub insomnia_ SsSAzNSsS |
 |4v4win4.w3g|4|28:24|(8)Cherryville.w3x|20|74.00|88.75|cum.2ez SoManyKodos UGH.2ez welp.2ez mikeMike t123 wale18 z_jia |
 |4v4win5.w3g|4|14:12|(8)Battleground.w3x|20|78.25|107.75|mikeMike t123 wale18 z_jia dkaghs gobob Hong9 soullimes |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3win9.w3g|3|14:23|(6)GnollWood.w3x|20|76.33|63.00|aqua-whale JesterZ[dF] vapordrops mikeMike OnionCraft wale18 |
 |3v3win14.w3g|3|19:53|(6)Dragonblight.w3x|20|78.00|68.00|hp0620 jh770916 nekopang mikeMike OnionCraft wale18 |
 |3v3win19.w3g|3|12:45|(6)UpperKingdom.w3x|14|64.33|62.67|INFERN0 jedi88 sikunt mikeMike t123 wingman |
@@ -962,28 +814,12 @@ Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas
 |4v4win124.w3g|4|17:27|(8)Mur''gulOasis.w3x|14|67.00|73.25|DieseL. DrU[DealeR] FairyGuy Novo mikeMike t123 wingman z_jia |
 |4v4win118.w3g|4|17:25|(8)Battleground.w3x|14|71.75|109.25|Cai_j8 Sin)Feizland VIC)Assassin VIC)FUNSeek mikeMike t123 wale18 z_jia |
 |4v4win98.w3g|4|16:46|(8)Mur''gulOasis.w3x|14|65.75|45.75|mikeMike t123 wale18 z_jia skywind TheOne0916 V.Lo XxHUMANWINxX |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3fun20.w3g|13|13:40|(6)UpperKingdom.w3x|14|60.67|51.33|mikeMike OnionCraft wingman wale18 z_jia fitzban |
 |4v4win73.w3g|4|13:24|(8)MarketSquare.w3x|14|67.25|73.25|BMBMBMBMBMBMBMB ice_mountian retsel whata mikeMike t123 wale18 wingman |
 |3v3fun7.w3g|13|22:29|(6)RiceFields.w3x|14|54.33|56.33|mikeMike wale18 OnionCraft jc123 t123 z_jia |
 |4v4win67.w3g|4|22:41|(8)BlastedLands.w3m|14|58.75|65.00|GoodMealPitLord horde.wrx PurpLe.CuSH Sensi-Star bluegrass mikeMike wingman z_jia |
 |4v4win63.w3g|4|21:59|(8)BlastedLands.w3m|14|64.25|49.25|Enhanced Enlarged loganvolkmann swiffer mikeMike t123 wale18 wingman |
 |3v3fun3.w3g|13|17:26|(8)Mur''gulOasis.w3x|14|61.67|56.67|mikeMike OnionCraft fitzban wale18 t123 jc123 |
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 835
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 836
-
-Warning: Illegal string offset 'time' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 845
-
-Warning: Illegal string offset 'text' in /Users/mchian000/src/war3.bak/w3g-julas-2.4/w3g-julas.php on line 846
 |3v3fun18.w3g|13|19:43|(6)GnollWood.w3x|14|65.67|44.33|mikeMike wale18 OnionCraft z_jia wingman jc123 |
 |4v4win88.w3g|4|20:55|(8)Mur''gulOasis.w3x|14|65.50|77.25|mikeMike t123 wingdog z_jia Homebot. Homeboyadvcd_sp homesnaggle. Homestuff. |
 |3v3fun24.w3g|13|12:26|(8)Mur''gulOasis.w3x|14|64.33|59.33|mikeMike z_jia wale18 OnionCraft t123 jc123 |
